@@ -1,0 +1,45 @@
+# Core Dependencies
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+streamlit==1.32.0
+python-dotenv==1.0.1
+pydantic
+python-multipart
+
+# Data Processing
+pandas==2.2.1
+numpy==1.26.4
+yfinance==0.2.36
+alpha_vantage
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# LLM and RAG
+langchain
+groq
+crewai
+
+# Voice Processing
+SpeechRecognition
+gTTS
+PyAudio
+
+# Testing
+pytest
+pytest-asyncio
+
+# Development
+black
+isort
+flake8
+
+# Web Scraping
+newspaper3k
+aiohttp
+# ML and AI (CPU only)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+transformers
+sentence-transformers
+faiss-cpu

@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Market analysis shows that tech stocks have been performing well in recent months, with major companies like Apple, Google, and Microsoft showing strong growth.",
+        "metadata": {
+            "source": "market_analysis.txt",
+            "date": "2024-03-15",
+            "category": "market_overview"
+        }
+    },
+    {
+        "text": "The Federal Reserve has maintained interest rates at current levels, citing stable inflation and strong economic growth as key factors in their decision.",
+        "metadata": {
+            "source": "fed_news.txt",
+            "date": "2024-03-14",
+            "category": "monetary_policy"
+        }
+    },
+    {
+        "text": "Global markets are showing increased volatility due to geopolitical tensions and supply chain disruptions. Investors are advised to maintain diversified portfolios.",
+        "metadata": {
+            "source": "global_markets.txt",
+            "date": "2024-03-13",
+            "category": "market_risk"
+        }
+    },
+    {
+        "text": "Cryptocurrency markets have seen significant price movements, with Bitcoin reaching new highs. However, experts warn of potential volatility and regulatory changes.",
+        "metadata": {
+            "source": "crypto_analysis.txt",
+            "date": "2024-03-12",
+            "category": "cryptocurrency"
+        }
+    },
+    {
+        "text": "The housing market continues to show strong demand, with home prices increasing in major metropolitan areas. Mortgage rates remain relatively stable.",
+        "metadata": {
+            "source": "housing_market.txt",
+            "date": "2024-03-11",
+            "category": "real_estate"
+        }
+    }
+] 
